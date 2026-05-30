@@ -28,3 +28,7 @@ This project is for research and education only. It is not financial advice and 
 ## Goal
 
 The goal of this project is to turn personal trading research into a clean, reproducible, and open-source quantitative system that can help individual learners study the market with more discipline.
+
+## Disclaimer
+
+This project is for educational and research purposes only. It does not provide investment advice, trading signals, or guaranteed returns. Users should make their own independent decisions and manage risk carefully.
